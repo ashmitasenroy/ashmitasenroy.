@@ -2,7 +2,6 @@ import feedparser
 import re
 
 # IMPORTANT: This is your dev.to RSS feed URL.
-# Make sure your dev.to username is correct.
 RSS_URL = "https://dev.to/feed/ashmitasenroy" # Please chnage this line while working on yours
 
 def fetch_blog_posts():
