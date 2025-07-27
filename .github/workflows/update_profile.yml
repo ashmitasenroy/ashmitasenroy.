@@ -5,6 +5,10 @@ on:
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
+# This is the new permissions block that fixes the error
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
