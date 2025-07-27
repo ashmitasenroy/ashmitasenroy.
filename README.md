@@ -26,6 +26,7 @@ I'm a Computer Science student specializing in AI/ML who is passionate about bri
 ## ✍️ My Latest Articles
 
 <!--BLOG-POST-LIST:START-->
+* [I Built an Animated Portfolio to Stand Out — Here's What I Learned (and You Can Too)"](https://dev.to/ashmitasenroy/i-built-an-animated-portfolio-to-stand-out-heres-what-i-learned-and-you-can-too-128e)
 <!--BLOG-POST-LIST:END-->
 
 ## 📫 How to reach me:
