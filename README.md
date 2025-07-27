@@ -22,6 +22,12 @@ I'm a Computer Science student specializing in AI/ML who is passionate about bri
 
 <br/>
 
+
+## ✍️ My Latest Articles
+
+<!--BLOG-POST-LIST:START-->
+<!--BLOG-POST-LIST:END-->
+
 ### 📫 How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashmita-sen-roy-784b8b272)
