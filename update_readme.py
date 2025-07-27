@@ -1,14 +1,16 @@
 import feedparser
 import re
 
-# IMPORTANT: This is your dev.to RSS feed URL.
-RSS_URL = "https://dev.to/feed/ashmitasenroy" # Please chnage this line while working on yours
+RSS_URL = "https://dev.to/feed/ashmitasenroy"
 
 def fetch_blog_posts():
+    print(f"Fetching posts from: {RSS_URL}") 
     feed = feedparser.parse(RSS_URL)
+    print(f"Found {len(feed.entries)} posts in the feed.") 
     posts = []
     # Get the 5 latest posts
     for entry in feed.entries[:5]:
+        print(f"  - Adding post: {entry.title}") # <-- DEBUG LINE
         posts.append(f"* [{entry.title}]({entry.link})")
     return "\n".join(posts)
 
@@ -37,4 +39,7 @@ def update_readme(new_content):
 
 if __name__ == "__main__":
     latest_posts_markdown = fetch_blog_posts()
+    print("--- Generated Markdown ---") # <-- DEBUG LINE
+    print(latest_posts_markdown) # <-- DEBUG LINE
+    print("--------------------------") # <-- DEBUG LINE
     update_readme(latest_posts_markdown)
