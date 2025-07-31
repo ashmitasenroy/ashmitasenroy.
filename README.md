@@ -6,7 +6,7 @@ I'm a Computer Science student specializing in AI/ML who is passionate about bri
 
 - ✍️ I love writing about technology, from API documentation to developer onboarding guides.
 - 🧠 I'm currently focused on building and documenting AI/ML models and MERN Stack based projects.
-- I lobe building interactive and creative websites that feels alive with a bit of personal touch.
+- I love building interactive and creative websites that feels alive.
 - 💬 Ask me about Python, React.js, or how to explain complex ideas simply!
 
 <br/>
