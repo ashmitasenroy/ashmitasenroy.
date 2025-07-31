@@ -5,7 +5,8 @@
 I'm a Computer Science student specializing in AI/ML who is passionate about bridging the gap between complex software and human understanding. My goal is to use my hands-on development experience to create clear, concise, and effective technical documentation that empowers other developers.
 
 - ✍️ I love writing about technology, from API documentation to developer onboarding guides.
-- 🧠 I'm currently focused on building and documenting AI/ML models.
+- 🧠 I'm currently focused on building and documenting AI/ML models and MERN Stack based projects.
+- I lobe building interactive and creative websites that feels alive with a bit of personal touch.
 - 💬 Ask me about Python, React.js, or how to explain complex ideas simply!
 
 <br/>
@@ -23,13 +24,13 @@ I'm a Computer Science student specializing in AI/ML who is passionate about bri
 <br/>
 
 
-## ✍️ My Latest Articles
+##  My Latest Articles
 
 <!--BLOG-POST-LIST:START-->
 * [I Built an Animated Portfolio to Stand Out — Here's What I Learned (and You Can Too)"](https://dev.to/ashmitasenroy/i-built-an-animated-portfolio-to-stand-out-heres-what-i-learned-and-you-can-too-128e)
 <!--BLOG-POST-LIST:END-->
 
-## 📫 How to reach me:
+## 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashmita-sen-roy-784b8b272)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00b386?style=for-the-badge&logo=About.me&logoColor=white)](https://ashmitas-portfolio.onrender.com/)
