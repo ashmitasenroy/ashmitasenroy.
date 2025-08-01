@@ -1,4 +1,4 @@
-# Hi there, I'm Ashmita Sen Roy 👋
+# Hi there, I'm Ashmita Sen Roy 
 
 <br/>
 
