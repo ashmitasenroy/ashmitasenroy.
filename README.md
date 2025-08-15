@@ -1,37 +1,78 @@
-# Hi there, I'm Ashmita Sen Roy ✨️
+<!-- Banner / Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ashmita+Sen+Roy+✨;Full+Stack+Developer+%7C+Frontend+Specialist;AI%2FML+Explorer;Building+Interactive+%26+Intelligent+Web+Apps" alt="Typing animation" />
+</p>
 
-<br/>
+---
 
-I'm a Computer Science student specializing in AI/ML who is passionate about bridging the gap between complex software and human understanding. My goal is to use my hands-on development experience to create clear, concise, and effective technical documentation that empowers other developers.
+## 🚀 About Me  
+I’m a **Computer Science student** specializing in **Full-Stack Web Development** (with a *love* for Frontend magic ✨) and exploring **AI/ML integration** in modern web apps.  
+💡 My mission: **to create smooth, creative, and intelligent digital experiences that feel alive.**  
 
-- ✍️ I love writing about technology, from API documentation to developer onboarding guides.
-- 🧠 I'm currently focused on building and documenting AI/ML models and MERN Stack based projects.
-- I love building interactive and creative websites that feels alive.
-- 💬 Ask me about Python, React.js, or how to explain complex ideas simply!
+🔹 Frontend: React.js, Next.js, TailwindCSS, Framer Motion  
+🔹 Backend: FastAPI, Node.js, Express.js  
+🔹 Databases: MySQL, MongoDB  
+🔹 AI/ML: Python, scikit-learn, TensorFlow (basics)  
 
-<br/>
+---
 
-### 🛠️ Languages and Tools:
+## 🛠 Languages & Tools  
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+### 🎨 Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss)
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-EF6C00?style=for-the-badge&logo=framer)
 
-<br/>
+### ⚙ Backend
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express)
 
+### 🗄 Databases
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
-##  My Latest Articles
+### 🤖 AI/ML
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python)
+![scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 
-<!--BLOG-POST-LIST:START-->
-* [I Built an Animated Portfolio to Stand Out — Here's What I Learned (and You Can Too)"](https://dev.to/ashmitasenroy/i-built-an-animated-portfolio-to-stand-out-heres-what-i-learned-and-you-can-too-128e)
-<!--BLOG-POST-LIST:END-->
+---
 
-## 📫 How to reach me
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashmitasenroy&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashmitasenroy&layout=compact&theme=radical" height="165"/>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashmita-sen-roy-784b8b272)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00b386?style=for-the-badge&logo=About.me&logoColor=white)](https://ashmitas-portfolio.onrender.com/)
-[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/ashmitasenroy)
+---
+
+## 🔥 Streaks & Contributions  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ashmitasenroy&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🐍 Watch my contributions snake around!  
+<p align="center">
+  <img src="https://github.com/ashmitasenroy/ashmitasenroy/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+## 🌟 Featured Projects  
+- [**LumiClock**](https://github.com/ashmitasenroy/LumiClock) — Creative productivity app with animated videos + focus timer.  
+- [**AI Time-Slot Prediction Model**](https://github.com/ashmitasenroy/SIH-2024-PSID-1761) — AI-based scheduling predictor.  
+- [**Portfolio Website**](https://ashmitas-portfolio.onrender.com/) — React-based personal portfolio.  
+
+---
+
+<p align="center">✨ Always learning, always building ✨</p>
+
+<!-- Visitor Count -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashmitasenroy&label=Profile%20views&color=blueviolet&style=flat" alt="profile views"/>
+</p>
