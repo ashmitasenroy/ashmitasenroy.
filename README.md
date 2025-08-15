@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ashmita+Sen+Roy+✨;Full+Stack+Developer+%7C+Frontend+Specialist;AI%2FML+Explorer;" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ashmita+Sen+Roy+✨;Full+Stack+Developer+%7C+Frontend+Specialist;" alt="Typing animation" />
 </p>
 
 ---
@@ -57,8 +57,9 @@ I’m a **Computer Science student** specializing in **Full-Stack Web Developmen
 
 ## 🐍 Watch my contributions snake around!  
 <p align="center">
-  <img src="https://github.com/ashmitasenroy/ashmitasenroy/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/ashmitasenroy/ashmitasenroy/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
 
 ---
 
