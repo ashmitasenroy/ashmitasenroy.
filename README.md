@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ashmita+Sen+Roy+✨;Full+Stack+Developer+%7C+Frontend+Specialist;AI%2FML+Explorer;Building+Interactive+%26+Intelligent+Web+Apps" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ashmita+Sen+Roy+✨;Full+Stack+Developer+%7C+Frontend+Specialist;AI%2FML+Explorer;" alt="Typing animation" />
 </p>
 
 ---
@@ -10,7 +10,7 @@ I’m a **Computer Science student** specializing in **Full-Stack Web Developmen
 💡 My mission: **to create smooth, creative, and intelligent digital experiences that feel alive.**  
 
 🔹 Frontend: React.js, Next.js, TailwindCSS, Framer Motion  
-🔹 Backend: FastAPI, Node.js, Express.js  
+🔹 Backend: FastAPI, Node.js, Express.js , Python 
 🔹 Databases: MySQL, MongoDB  
 🔹 AI/ML: Python, scikit-learn, TensorFlow (basics)  
 
@@ -23,7 +23,6 @@ I’m a **Computer Science student** specializing in **Full-Stack Web Developmen
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss)
-![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-EF6C00?style=for-the-badge&logo=framer)
 
 ### ⚙ Backend
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi)
