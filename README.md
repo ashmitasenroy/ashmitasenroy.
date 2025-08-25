@@ -9,7 +9,7 @@
 I’m a **Computer Science student** specializing in **Full-Stack Web Development** (with a *love* for Frontend magic ✨) and exploring **AI/ML integration** in modern web apps.  
 💡 My mission: **to create smooth, creative, and intelligent digital experiences that feel alive.**  
 
-🔹 Frontend: React.js, Next.js, TailwindCSS, Framer Motion  
+🔹 Frontend: React.js, Next.js, VanillaCSS, Framer Motion  
 🔹 Backend: FastAPI, Node.js, Express.js , Python 
 🔹 Databases: MySQL, MongoDB  
 🔹 AI/ML: Python, scikit-learn, TensorFlow (basics)  
